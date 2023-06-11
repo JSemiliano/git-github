@@ -1,3 +1,3 @@
 Archivo README.md
 
-Agregando mas contenido al README.md
+Agregando contenido al README.md
